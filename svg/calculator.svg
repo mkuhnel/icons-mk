@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 3.5312536,1027.369 c -0.4386,0.095 -0.7817,0.5201 -0.7812,0.9685 l 0,23.0257 c -0.01,0.5248 0.4749,1.0052 1,0.9997 l 17.4999994,0 c 0.5251,0 1.0054,-0.4749 1,-0.9997 l 0,-23.0257 c -0.011,-0.5143 -0.4853,-0.9739 -1,-0.9685 l -17.4999994,0 c -0.073,-0.01 -0.1461,-0.01 -0.2188,0 z m 0.9688,1.9995 15.9999994,0 0,3.999 -15.9999994,0 0,-3.999 z m 0,5.4987 3,0 0,2.9992 -3,0 0,-2.9992 z m 4.3438,0 3.0000004,0 0,2.9992 -3.0000004,0 0,-2.9992 z m 4.3124004,0 3,0 0,2.9992 -3,0 0,-2.9992 z m 4.3438,0 2.999999,0 0,2.9992 -2.999999,0 0,-2.9992 z m -13.0000004,4.3114 3,0 0,2.9993 -3,0 0,-2.9993 z m 4.3438,0 3.0000004,0 0,2.9993 -3.0000004,0 0,-2.9993 z m 4.3124004,0 3,0 0,2.9993 -3,0 0,-2.9993 z m 4.3438,0 2.999999,0 0,2.9993 -2.999999,0 0,-2.9993 z m -13.0000004,4.3427 3,0 0,2.9993 -3,0 0,-2.9993 z m 4.3438,0 3.0000004,0 0,2.9993 -3.0000004,0 0,-2.9993 z m 4.3124004,0 3,0 0,2.9993 -3,0 0,-2.9993 z m 4.3438,0 2.999999,0 0,2.9993 -2.999999,0 0,-2.9993 z m -13.0000004,4.3427 3,0 0,2.9993 -3,0 0,-2.9993 z m 4.3438,0 3.0000004,0 0,2.9993 -3.0000004,0 0,-2.9993 z m 4.3124004,0 3,0 0,2.9993 -3,0 0,-2.9993 z m 4.3438,0 2.999999,0 0,2.9993 -2.999999,0 0,-2.9993 z"
+       id="calculator"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.97945154;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>

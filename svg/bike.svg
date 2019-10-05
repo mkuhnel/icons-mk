@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 12.7185,1030.4208 a 0.63132418,0.63132418 0 0 0 0.062,1.2468 l 1.6522,0.1871 2.5249,6.1409 -7.6683001,0.031 a 0.63132418,0.63132418 0 0 0 -0.1871,0.031 l -1.9014,-2.9613 0.6546,0 a 0.63132418,0.63132418 0 1 0 0,-1.2468 l -3.0549,0 a 0.63132418,0.63132418 0 0 0 -0.1247,0 0.63132418,0.63132418 0 0 0 0.1247,1.2468 l 0.904,0 2.4938,3.9276 -1.1846,1.5587 c -0.6729,-0.3637 -1.4433,-0.5923 -2.2755,-0.5923 -2.6632,0 -4.738199954999997,2.1443 -4.738199954999997,4.6758 0,2.5316 2.074999954999997,4.6447 4.738199954999997,4.6447 2.4222,0 4.3444,-1.766 4.6758,-3.99 l 3.0548001,0 a 0.63132418,0.63132418 0 0 0 0.4988,-0.2494 l 4.4576,-5.8916 0.5923,1.4028 c -1.4873,0.798 -2.4938,2.3383 -2.4938,4.0835 0,2.5316 2.075,4.6447 4.7381,4.6447 2.6632,0 4.7382,-2.1131 4.7382,-4.6447 0,-2.5315 -2.075,-4.6758 -4.7382,-4.6758 -0.378,0 -0.7407,0.044 -1.0909,0.1247 l -3.7407,-9.1023 a 0.63132418,0.63132418 0 0 0 -0.53,-0.4052 l -1.995,-0.187 a 0.63132418,0.63132418 0 0 0 -0.187,0 z m 3.0861,8.8217 -3.2419,4.2705 -2.7120001,-4.2394 5.9539001,-0.031 z m -6.8579001,0.9039 2.4626001,3.8966 -1.9950001,0 c -0.1435,-1.0456 -0.6333,-1.998 -1.3716,-2.712 l 0.904,-1.1846 z m -4.2082,1.0287 c 0.5453,0 1.0637,0.1659 1.5273,0.4053 l -2.0884,2.7432 a 0.63132418,0.63132418 0 0 0 0.4987,1.0286 l 3.3978,0 c -0.3135,1.624 -1.7185,2.7743 -3.3354,2.7743 -1.8367,0 -3.3978,-1.4918 -3.3978,-3.4601 0,-1.9682 1.5611,-3.4913 3.3978,-3.4913 z m 15.5236001,0 c 1.8367,0 3.3978,1.5231 3.3978,3.4913 0,1.9683 -1.5611,3.4601 -3.3978,3.4601 -1.8366,0 -3.3978,-1.4918 -3.3978,-3.4601 0,-1.2672 0.6684,-2.3221 1.621,-2.9302 l 1.3093,3.2108 a 0.63132418,0.63132418 0 1 0 1.1533,-0.4676 l -1.3404,-3.2419 c 0.2186,-0.045 0.425,-0.062 0.6546,-0.062 z m -12.9988001,1.1535 c 0.4209,0.4746 0.6992,1.0764 0.8106,1.7456 l -2.1197,0 1.3091,-1.7456 z"
+       id="bike"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81702173;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>

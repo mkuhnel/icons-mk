@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 6.1887,1034.7514 c -2.6081,0 -4.6979,1.9418 -5.0492,4.4027 l -0.062,0 -0.5849,0 -0.3079,0 -0.1847,0 0,0.2155 0,0.277 0,0.4312 0,0.277 0,0.1847 0.1847,0 0.3079,0 0.5849,0 0.062,0 c 0.3498,2.4629 2.4384,4.4335 5.0492,4.4335 2.8577,0 5.1108,-2.3212 5.1108,-5.1108 0,-0.1701 -0.013,-0.346 -0.031,-0.5233 0.092,-0.1567 0.4258,-0.6467 1.2315,-0.6467 0.8376,0 1.1403,0.5236 1.2315,0.6774 -0.015,0.1628 -0.031,0.33 -0.031,0.4926 0,2.7896 2.2531,5.1108 5.1108,5.1108 2.6108,0 4.6994,-1.9706 5.0492,-4.4335 l 0.062,0 0.6157,0 0.2771,0 0.1847,0 0,-0.1847 0,-0.277 0,-0.4312 0,-0.277 0,-0.2155 -0.1847,0 -0.2771,0 -0.6157,0 -0.062,0 c -0.3513,-2.4609 -2.4411,-4.4027 -5.0492,-4.4027 -2.1493,0 -3.9389,1.3317 -4.7105,3.1711 -0.4016,-0.2909 -0.8895,-0.6157 -1.601,-0.6157 -0.7119,0 -1.1995,0.3249 -1.601,0.6157 -0.7719,-1.8394 -2.5612,-3.1711 -4.7105,-3.1711 z m 0,1.3546 c 2.041,0 3.7253,1.6468 3.7253,3.7562 0,2.1095 -1.6862,3.7561 -3.7253,3.7561 -2.0382,0 -3.7562,-1.6485 -3.7562,-3.7561 0,-2.1075 1.7161,-3.7562 3.7562,-3.7562 z m 12.623,0 c 2.0412,0 3.7562,1.6486 3.7562,3.7562 0,2.1077 -1.7169,3.7561 -3.7562,3.7561 -2.0391,0 -3.7253,-1.6466 -3.7253,-3.7561 0,-2.1094 1.6843,-3.7562 3.7253,-3.7562 z"
+       id="glasses"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>

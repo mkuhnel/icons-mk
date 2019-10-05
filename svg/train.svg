@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 6.1639,1027.3622 c -1.2547,0.1241 -2.3179,1.3195 -2.3222,2.5803 l 0,13.188 c 0,1.3513 1.2575,2.5826 2.6089,2.5803 l 0.172,0 -3.2396,6.2213 0.8028,0.4301 0.8027,-1.5482 15.0229,0 0.8029,1.5482 0.8027,-0.4301 -3.2397,-6.2213 0.1719,0 c 1.3513,0 2.6113,-1.229 2.6091,-2.5803 l 0,-13.188 c -0.012,-1.3428 -1.2661,-2.5826 -2.6091,-2.5803 l -12.0986,0 -0.2867,0 z m 4.5585,1.2041 0.1147,0 0.3727,0 2.5515,0 0.4015,0 c 0.2787,0 0.5528,0.1581 0.5447,0.3154 l 0,0.172 0,0.258 0,0.1721 c 0.01,0.1572 -0.266,0.2889 -0.5447,0.2867 l -0.4015,0 -2.5515,0 -0.3727,0 c -0.2788,0 -0.5529,-0.1295 -0.5447,-0.2867 l 0,-0.1721 0,-0.258 0,-0.172 c -0.01,-0.1381 0.19,-0.2885 0.43,-0.3154 z m -5.2752,2.523 6.2786,0 0,6.6801 -6.2786,0 0,-6.6801 z m 7.8554,0 6.2501,0 0,6.6801 -6.2501,0 0,-6.6801 z m -6.3933,8.5435 c 0.7978,0 1.4335,0.6357 1.4335,1.4335 0,0.7979 -0.6357,1.4621 -1.4335,1.4621 -0.7978,0 -1.4621,-0.6642 -1.4621,-1.4621 0,-0.7978 0.6644,-1.4335 1.4621,-1.4335 z m 11.2098,0 c 0.7978,0 1.4336,0.6357 1.4336,1.4335 0,0.798 -0.6358,1.4621 -1.4336,1.4621 -0.7978,0 -1.4333,-0.6641 -1.4333,-1.4621 0,-0.7978 0.6355,-1.4335 1.4333,-1.4335 z m -10.4644,6.078 9.6904,0 0.7454,1.4335 -11.1812,0 0.7454,-1.4335 z m -1.2328,2.3509 12.156,0 0.9461,1.8349 -14.0482,0 0.9461,-1.8349 z"
+       id="train"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.23877048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>

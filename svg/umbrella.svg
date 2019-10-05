@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 12.4909,1027.362 a 1.0001,1.0001 0 0 0 -1,1.0313 l 0,2.8124 a 1.0001,1.0001 0 1 0 2,0 l 0,-2.8124 a 1.0001,1.0001 0 0 0 -1,-1.0313 z m -0.1563,5.9383 a 1.0001,1.0001 0 0 0 -0.875,1.0312 l 0,13.1875 0,0.9376 0,0.031 c 0,0 0.01,0.504 -0.2187,0.9688 -0.2256,0.4647 -0.5023,0.9062 -1.7813001,0.9062 -1.2133,0 -1.4919,-0.5103 -1.75,-1.1562 -0.2581,-0.646 -0.25,-1.3438 -0.25,-1.3438 a 1.0011039,1.0011039 0 1 0 -2,-0.094 c 0,0 -0.074,1.0635 0.375,2.1876 0.4492,1.124 1.6674,2.4062 3.625,2.4062 1.8919001,0 3.1120001,-1.0384 3.5937001,-2.0312 0.4669,-0.9622 0.41,-1.8184 0.4063,-1.875 -10e-5,0 0,-0.063 0,-0.063 l 0,-0.875 0,-13.1875 a 1.0001,1.0001 0 0 0 -1.125,-1.0312 z M 12.5,1028.817 c -6.9036001,0 -12.50000005,3.5963 -12.50000005,10.5 L 25,1039.317 c 0,-6.9037 -5.5964,-10.5 -12.5,-10.5 z"
+       id="umbrella"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>

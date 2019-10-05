@@ -1,0 +1,36 @@
+Fonts used in icons-mk
+
+Many thanks to...
+
+...DejaVu Serif Bold
+-text-uppercase ("T")
+-text-lowercase ("t")
+-document-text ("T")
+-copyright ("C")
+-regisered-trademark ("R")
+-trademark ("TM")
+-calendar ("Month")
+-degree-fahrenheit ("°F")
+-degree-celsius ("°C")
+-markup-language ("Markup")
+
+...DejaVu Sans Bold
+-zero ("0")
+-one ("1")
+-two ("2")
+-three ("3")
+-four ("4")
+-five ("5")
+-six ("6")
+-seven ("7")
+-eight ("8")
+-nine ("9")
+-alert ("!")
+-euro ("€")
+-stopwatch ("00")
+-calendar ("01")
+-fraction-half ("1", "2")
+-fraction-fourth ("1", "4")
+-fraction-eighth ("1", "8")
+-fraction-sixteenth ("1", "16")
+-fraction-thirty-second ("1", "32")

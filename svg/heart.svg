@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 6.2738416,1027.3622 c -4.6067,0 -8.3491,3.1301 -3.625,11.3125 4.7242,8.1824 9.8438014,13.6875 9.8438014,13.6875 0,0 5.217599,-5.6206 9.874999,-13.6875 4.6575,-8.0669 1.0422,-11.3125 -3.625,-11.3125 -4.6671,0 -6.249999,5.5937 -6.249999,5.5937 0,0 -1.6121,-5.5937 -6.2188014,-5.5937 z"
+       id="heart"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

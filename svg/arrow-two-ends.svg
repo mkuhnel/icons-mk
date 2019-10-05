@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 4.5311998,1031.1747 -4.5312,7.9688 2.4375,0 c 0.3388,5.2488 4.6972,9.4062 10.0313002,9.4062 5.3339,0 9.6927,-4.1577 10.0312,-9.4062 l 2.5,0 -4.5312,-7.9688 -4.5313,7.9688 2.5313,0 c -0.3363,3.0144 -2.8959,5.375 -6,5.375 -3.1139002,0 -5.6771002,-2.3474 -6.0000002,-5.375 l 2.5937,0 -4.5313,-7.9688 z"
+       id="arrow-two-ends"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

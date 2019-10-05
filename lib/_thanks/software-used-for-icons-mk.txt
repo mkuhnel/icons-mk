@@ -1,0 +1,7 @@
+Software used for icons-mk
+
+Many thanks to...
+
+...Inkscape
+and
+...Visual Studio Code

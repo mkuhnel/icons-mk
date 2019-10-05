@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 0.34376063,1027.3697 c -0.20305,0.073 -0.34795,0.2843 -0.343749993617,0.4999 l 0,11.7396 12.243290363617,0 0,-12.2395 -11.74329037,0 c -0.0517,-0.01 -0.10456,-0.01 -0.15625,0 z m 12.41254037,0 0,12.2395 12.24371,0 0,-11.7396 c -0.0107,-0.2689 -0.2619,-0.5055 -0.53125,-0.4999 z m -7.1000403,3.5926 1.03125,0 0,2.0618 2.03125,0 0,0.9997 -2.03125,0 0,2.0619 -1.03125,0 0,-2.0619 -2.0625,0 0,-0.9997 2.0625,0 z m 10.5937503,2.0618 5.125,0 0,0.9997 -5.125,0 z m -16.250000363617,7.0981 0,11.7087 c -0.0060000064,0.2685 0.230819993617,0.5203 0.499999993617,0.531 l 11.74329037,0 0,-12.2397 z m 12.756290363617,0 0,12.2397 11.71246,0 c 0.27965,0.01 0.53686,-0.2523 0.53125,-0.531 l 0,-11.7087 z m -7.1000403,3.4924 1.03125,0 0,1.3121 0.9375,-0.906 0.71875,0.7186 -0.96875,0.9372 1.34375,0 0,1.0309 -1.3125,0 0.9375,0.906 -0.71875,0.7497 -0.9375,-0.9372 0,1.3121 -1.03125,0 0,-1.3434 -0.9375,0.9685 -0.71875,-0.7497 0.90625,-0.906 -1.3125,0 0,-1.0309 1.34375,0 -0.9375,-0.9372 0.71875,-0.7186 0.9375,0.9373 z m 13.1562503,0.031 c 0.3992,0 0.71875,0.3195 0.71875,0.7186 0,0.399 -0.31955,0.7185 -0.71875,0.7185 -0.3992,0 -0.71875,-0.3195 -0.71875,-0.7185 0,-0.3991 0.31955,-0.7186 0.71875,-0.7186 z m -2.5625,2.0307 5.125,0 0,1.0309 -5.125,0 z m 2.5625,1.6245 c 0.3992,0 0.71875,0.3196 0.71875,0.7184 0,0.3993 -0.31955,0.7186 -0.71875,0.7186 -0.3992,0 -0.71875,-0.3195 -0.71875,-0.7186 0,-0.399 0.31955,-0.7184 0.71875,-0.7184 z"
+       id="classic-operators"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04166651;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>

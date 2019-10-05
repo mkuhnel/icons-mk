@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 16.3517,1040.7073 c 0,2.1315 -1.7279,3.8595 -3.8595,3.8595 -2.1315,0 -3.8595001,-1.728 -3.8595001,-3.8595 0,-2.1316 1.7280001,-3.8595 3.8595001,-3.8595 2.1316,0 3.8595,1.7279 3.8595,3.8595 z m -6.6327001,-9.6576 c -0.7629,0 -1.375,0.6123 -1.375,1.375 0,0.1049 0.01,0.2143 0.031,0.3125 l -5.8438,0 c -1.408,0 -2.531199954999995,1.1545 -2.531199954999995,2.5625 l 0,10.8438 c 0,1.408 1.123199954999995,2.5312 2.531199954999995,2.5312 l 19.9063001,0 c 1.408,0 2.5625,-1.1232 2.5625,-2.5312 l 0,-10.8438 c 0,-1.408 -1.1545,-2.5625 -2.5625,-2.5625 l -5.8437,0 c 0.022,-0.099 0.031,-0.2071 0.031,-0.3125 0,-0.7627 -0.6123,-1.375 -1.375,-1.375 l -5.5312001,0 z m 2.7812001,3.6875 c 3.3051,0 5.9688,2.6635 5.9688,5.9687 0,3.3052 -2.6637,6 -5.9688,6 -3.3052001,0 -6.0000001,-2.6948 -6.0000001,-6 0,-3.3052 2.6948,-5.9687 6.0000001,-5.9687 z"
+       id="photo"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

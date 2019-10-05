@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2019), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 8.2424032,1027.4126 c -0.632,0.1007 -1.2647,0.3468 -1.8705,0.6235 -0.606,0.2768 -1.1852,0.6131 -1.6524,0.9976 -0.4672,0.3846 -0.863,0.7945 -1.0288,1.3719 -1.0568,3.6792 0.1135,8.5596 2.494,12.8444 2.3807,4.2848 6.0239998,8.0307 10.2881998,9.041 1.0865,0.2575 2.1615,-0.2203 3.0551,-0.8106 0.8937,-0.5903 1.606,-1.3095 1.9641,-2.0888 0.3568,-0.7765 0.2149,-1.6381 -0.1247,-2.3694 -0.3396,-0.7312 -0.8764,-1.4129 -1.4653,-2.0264 -0.5888,-0.6134 -1.2373,-1.1246 -1.8393,-1.5275 -0.6021,-0.4031 -1.066,-0.7274 -1.7147,-0.7483 -0.5925,-0.02 -1.1151,0.1581 -1.4964,0.4364 -0.3814,0.2784 -0.6096,0.6331 -0.7794,0.9354 -0.1455,0.2589 -0.2321,0.4482 -0.3118,0.5923 -0.1722,-0.1575 -0.3897,-0.4178 -0.6546,-0.7482 -0.5536,-0.6901 -1.24,-1.6635 -1.8706,-2.7123 -0.6307,-1.0489 -1.214,-2.1639 -1.6210998,-3.1176 -0.3315,-0.7763 -0.427,-1.2922 -0.4677,-1.6211 0.1823,-0.01 0.3623,-0.03 0.6235,-0.031 0.3653998,0 0.7557998,-0.024 1.1534998,-0.094 0.3977,-0.069 0.8956,-0.18 1.1847,-0.686 0.1535,-0.2685 0.1809,-0.4831 0.2182,-0.7482 0.037,-0.265 0.059,-0.5697 0.062,-0.9041 0.01,-0.6687 -0.056,-1.462 -0.1871,-2.2757 -0.1308,-0.8139 -0.334,-1.6448 -0.6547,-2.3695 -0.3207,-0.7247 -0.7492,-1.3982 -1.4652,-1.7459 -0.5753998,-0.2793 -1.2074998,-0.3189 -1.8393998,-0.2182 z"
+       id="phone"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47529411;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>
