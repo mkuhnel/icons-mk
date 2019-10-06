@@ -7,7 +7,32 @@
   <img src="logo/icons-mk-logo.svg" alt="Logo of icon-collection icons-mk" height="40"/>
   <p>icons-mk is an icon-collection created by Matthias Kuhnel. Furthermore, it is published as a part of reuseIT. For more      information, please visit The ReUse Project's website (<a href="https://reuseproject.org" class="hashtag" target="_blank">https://reuseproject.org</a>).
   </p>
-        
+
+<!-- Some of the icons -->
+  <h2><b>Some of the icons</b></h2>
+  <p>
+    <img src="svg/home.svg" alt="icons-mk-home"/>
+    <img src="svg/menu.svg" alt="icons-mk-menu"/>
+    <img src="svg/gear.svg" alt="icons-mk-gear"/>
+    <img src="svg/close.svg" alt="icons-mk-close"/>
+    <img src="svg/tick.svg" alt="icons-mk-tick"/>
+    <img src="svg/arrow-top.svg" alt="icons-mk-arrow-top"/>
+    <img src="svg/arrow-bottom.svg" alt="icons-mk-arrow-bottom"/>
+    <img src="svg/click.svg" alt="icons-mk-click"/>
+    <img src="svg/suitcase.svg" alt="icons-mk-suitcase"/>
+    <img src="svg/save.svg" alt="icons-mk-save"/>
+    <img src="svg/video.svg" alt="icons-mk-video"/>
+    <img src="svg/microphone.svg" alt="icons-mk-microphone"/>
+    <img src="svg/person.svg" alt="icons-mk-person"/>
+    <img src="svg/brightness.svg" alt="icons-mk-brightness"/>
+    <img src="svg/star-border.svg" alt="icons-mk-star-border"/>
+    <img src="svg/train.svg" alt="icons-mk-train"/>
+    <img src="svg/bike.svg" alt="icons-mk-bike"/>
+    <img src="svg/heart-grapes.svg" alt="icons-mk-heart-grapes"/>
+    <img src="svg/like.svg" alt="icons-mk-like"/>
+    <img src="svg/wrench.svg" alt="icons-mk-wrench"/>
+  </p>
+
 <!-- Folder structure -->
   <h2><b>Folder structure</b></h2>
   <p>The following table contains a short overview to all files and folders of icons-mk.</p>
