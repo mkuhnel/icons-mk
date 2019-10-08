@@ -59,10 +59,6 @@
         <td>Contains images with pixel graphics</td>
       </tr>
       <tr class="w3-re-green-l5">
-        <td>js</td>
-        <td>Contains JavaScript files for dynamic purposes</td>
-      </tr>
-      <tr class="w3-re-green-l5">
         <td>lib</td>
         <td>Contains external libraries and info files</td>
       </tr>
@@ -75,28 +71,16 @@
         <td>Contains all icons as vector graphics in separated files</td>
       </tr>
       <tr class="w3-re-green-l5">
-        <td><i>_footer.html</i></td>
-        <td>Footer component (dynamically loaded via JavaScript file)</td>
-      </tr>
-      <tr class="w3-re-green-l5">
-        <td><i>folder_structure.html</i></td>
-        <td>Content component (dynamically loaded via JavaScript file)</td>
-      </tr>
-      <tr class="w3-re-green-l5">
         <td><i>index.html</i></td>
         <td>Contains all dependencies to other files as well as displays the content of icons-mk</td>
       </tr>
-      <tr class="w3-re-green-l5">
-        <td><i>web_usage.html</i></td>
-        <td>Content component (dynamically loaded via JavaScript file)</td>
-      </tr>
-    </table>
+     </table>
   </div>
 
 <!-- Web usage -->
   <h2><b>Web usage</b></h2>
   <p>You can use icons-mk for your <b class="w3-text-re-green">website, mobile application or software</b>.</p>
-  <p>Copy the svg folder to your project. Take the pre-defined code per icon and put it in your code. Download icons-mk and open index.html. There is an accordion, where you will see all icons.
+  <p>Copy the svg folder to your project. Take the pre-defined code per icon and put it in your code. Download icons-mk and open index.html. There you will see all icons.
   </p>
   <p>
     <img src="svg/microphone.svg" alt="icons-mk-microphone"/>
@@ -122,7 +106,7 @@
     <li>Edit icons-mk with CSS/jQuery (use a search engine for further information)</li>
     <li>Edit icons-mk with open-source-software (e.g. with Inkscape)</li>
     <li>Add animations to the icons-mk (e.g. with Synfig Studio)</li>
-    <li>Transform SVG of icons-mk into icon font (e.g. with icomoon)</li>
+    <li>Transform SVG of icons-mk into icon font (e.g. with IcoMoon)</li>
     <li>...</li>
   </ul>
   <h3>* <b>Edit SVG code</b></h3>
