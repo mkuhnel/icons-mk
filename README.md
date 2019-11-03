@@ -77,6 +77,11 @@
      </table>
   </div>
 
+<!-- YouTube video -->
+  <h2><b>icons-mk video on YouTube</b></h2>
+  <p>You can find a <a href="https://www.youtube.com/watch?v=OGBgKngCisM" class="hashtag" target="_blank">video tutorial on YouTube</a> with examples how to use icons-mk.
+  </p>
+
 <!-- Web usage -->
   <h2><b>Web usage</b></h2>
   <p>You can use icons-mk for your <b class="w3-text-re-green">website, mobile application or software</b>.</p>
@@ -90,7 +95,7 @@
 <!-- Media usage -->
   <h2><b>Media usage</b></h2>
   <p>You can use icons-mk for upgrading your <b class="w3-text-re-green">videos, infographics and much more</b>.</p>
-  <p>For example: <a href="https://reuseproject.org/img/hints/hints_total.pdf" class="hashtag">
+  <p>For example: <a href="https://reuseproject.org/img/hints/hints_total.pdf" class="hashtag" target="_blank">
     <img src="svg/link.svg" alt="icons-mk-link" class="padding_right_5"/>Infographics of The ReUse Project</a>
   </p>
 
