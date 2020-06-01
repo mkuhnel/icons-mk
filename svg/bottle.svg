@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- icons-mk created by Matthias Kuhnel (2020), reuseIT, https://reuseproject.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="25"
+   id="svg">
+  <defs
+     id="defs" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1027.3622)"
+     id="icons-mk">
+    <path
+       d="m 12.341561,1027.3623 c -0.924,0 -1.688,0.5239 -1.688,1.1562 0,0.1581 0.07,0.3005 0.156,0.4375 -0.171,0.2012 -0.281,0.4347 -0.281,0.6875 0,0.1918 0.05,0.3687 0.157,0.5313 l -1.0940004,7.7812 -0.03,0.1875 c -0.124,0.1969 -0.252,0.4753 -0.406,0.875 -0.308,0.7993 -0.63,2.0251 -0.594,3.75 0.07,3.3595 0,9.25 0,9.25 l 0,0.3125 0.376,0 3.0620004,0 4.062,0.031 0.376,0 0,-0.3125 c 0,0 -0.07,-5.9216 0,-9.2812 0.04,-1.7248 -0.256,-2.9507 -0.563,-3.75 -0.172,-0.4453 -0.34,-0.7122 -0.469,-0.9063 l -0.03,-0.1875 -1.344,-7.8125 c 0.08,-0.1442 0.125,-0.304 0.125,-0.4687 0,-0.2463 -0.112,-0.4584 -0.281,-0.6563 0.1,-0.1466 0.156,-0.2964 0.156,-0.4687 0,-0.6324 -0.732,-1.1563 -1.656,-1.1563 l -0.03,0 z m -0.844,2.125 c 0.251,0.1026 0.53,0.1875 0.844,0.1875 0.313,0 0.592,-0.085 0.844,-0.1875 0.05,0.05 0.06,0.099 0.06,0.1562 0,0.2302 -0.429,0.4063 -0.938,0.4063 -0.508,0 -0.906,-0.1761 -0.906,-0.4063 0,-0.057 0.05,-0.1067 0.09,-0.1562 z m 1.688,1.25 1.187,6.8125 -3.813,0 0.907,-6.7813 c 0.252,0.098 0.533,0.1563 0.843,0.1563 0.326,0 0.61,-0.08 0.876,-0.1875 z"
+       id="bottle"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63833123;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>
